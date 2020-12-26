@@ -1,9 +1,7 @@
 ### Hi 👋
 My name is Sohan. In a past life I was a CS student at Georgia Tech. I'm currently building [Gatherly](https://www.gatherly.io/) with an amazing team.
 
-We're looking for full-stack developers. Reach out :)
-
-Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/sohan-choudhury/) or [email](mailto:sohanyo@gmail.com).
+We're looking for full-stack developers. Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/sohan-choudhury/) or [email](mailto:sohanyo@gmail.com).
 
 <!--
 **SohanChoudhury/SohanChoudhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
