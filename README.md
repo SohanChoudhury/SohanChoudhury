@@ -1,5 +1,5 @@
-### Hi 👋
-My name is Sohan. In a past life I was a CS student at Georgia Tech. I'm currently building [Gatherly](https://www.gatherly.io/) with an amazing team.
+### Hi, I'm Sohan 👋
+In a past life I was a CS student at Georgia Tech. I'm currently building [Gatherly](https://www.gatherly.io/) with an amazing team.
 
 We're looking for full-stack developers. Feel free to contact me via [LinkedIn](https://www.linkedin.com/in/sohan-choudhury/) or [email](mailto:sohanyo@gmail.com).
 
