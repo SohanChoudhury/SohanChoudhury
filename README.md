@@ -1,8 +1,6 @@
 ### Hi, I'm Sohan 👋
 
-Building something new. You can find me on Twitter ([@hungrysohan](https://twitter.com/hungrysohan)) or reach out at sohanyo@gmail.com.
-
-Previously co-founded [Gatherly](https://gatherly.io/) and [Queues](https://www.queues.com/).
+Building [Flint](https://www.flintk12.com/) (YC S23). You can find me on Twitter ([@hungrysohan](https://twitter.com/hungrysohan)) or reach out at sohanyo@gmail.com.
 
 <!--
 **SohanChoudhury/SohanChoudhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
